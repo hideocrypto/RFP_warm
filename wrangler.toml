@@ -3,3 +3,7 @@ compatibility_date = "2025-04-26"
 
 [site]
 bucket = "."
+
+[pages]
+project_name = "rainforest-pools"
+pages_build_output_dir = "."
