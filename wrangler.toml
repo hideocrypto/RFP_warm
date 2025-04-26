@@ -1,0 +1,5 @@
+name = "rainforest-pools"
+compatibility_date = "2025-04-26"
+
+[site]
+bucket = "."
